@@ -1,7 +1,0 @@
-name: meme-site
-image: python:3.9
-command:
-  - python
-  - meme_flask.py
-forward:
-  - 8080:8080
